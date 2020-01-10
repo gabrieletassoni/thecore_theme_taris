@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
   # Workaround for:
   # Lock gem 'jquery-ui-rails' at 5.x
   # https://github.com/activeadmin/activeadmin/issues/4672
-  s.add_dependency 'jquery-ui-rails', '~> 5.0.5'
+  s.add_dependency 'jquery-ui-rails', '~> 6.0'
   s.add_dependency 'rails_admin_ui_layout_taris', '~> 1.0'
   s.add_dependency 'rails_admin_ui_dashboard_blocks', '~> 1.0'
   s.add_dependency 'rails_admin_ui_index_cards', '~> 1.0'
